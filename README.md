@@ -122,6 +122,7 @@ void printList(struct ListNode *head){
 @end
 ```
 > 执行结果日志
+
 ![图片.png](https://upload-images.jianshu.io/upload_images/686735-6195b1751af62e8a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
